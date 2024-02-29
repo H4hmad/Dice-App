@@ -14,7 +14,9 @@ class GradientContainer extends StatelessWidget {
         gradient: LinearGradient(
             colors: color, begin: startAlignment, end: endAlignment),
       ),
-      child: const Center(child: TextContainer("NETFLIX")),
+      child: Center(
+        child: Image.asset('assets/images/dice-2.png', width: 200),
+      ),
     );
   }
 }
