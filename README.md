@@ -1,5 +1,5 @@
 # Dice App
-This is a simple Flutter app that simulates rolling a dice. It's a beginner-friendly project created to learn about Flutter and Dart programming.
+This is a simple Flutter app that simulates rolling a dice. It's a beginner-friendly project created to learn about Flutter and Dart programming. This is the first app i've ever built with Flutter and Dart.
 
 
 ## Learning Outcomes
